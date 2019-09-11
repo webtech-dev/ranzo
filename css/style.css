@@ -866,7 +866,7 @@ a.au-btn--white {
 
 .header-stick {
     position: fixed;
-    top: -86px;
+    top: -91px;
     -webkit-transition: 0.6s;
     -o-transition: 0.6s;
     -moz-transition: 0.6s;
@@ -1635,8 +1635,8 @@ nav.menu-mobile>ul>li>ul {
 
 .service__item h4 a {
     font-size: 18px;
-    color: #f79421;
-    font-weight: 600;
+    color: #ff8900;
+    font-weight: bold;
 }
 
 .service__item h4 a:hover {
@@ -4818,7 +4818,7 @@ body.box {
 /*--------- Project ---------*/
 
 .parallax--nav {
-    padding: 125px 0;
+    padding: 30px 0;
     background-image: url('../img/bg-head.jpg');
     background-position: 50% 50%;
 }
